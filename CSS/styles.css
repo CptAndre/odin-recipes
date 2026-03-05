@@ -1,3 +1,16 @@
 a{
     color:lightcoral;
 }
+
+body{
+    background-color: rgb(88, 80, 88);
+}
+
+.logo{
+    background-color: lightcoral;
+    padding: 8px;
+}
+
+.logo h1{
+    text-align: center;
+}
