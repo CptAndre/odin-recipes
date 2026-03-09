@@ -14,3 +14,14 @@ body{
 .logo h1{
     text-align: center;
 }
+
+.menu_of_dishes{
+    background-color: wheat;
+    width: 300px;
+    height: 200px;
+    margin-left: 300px;
+}
+
+.menu_of_dishes h2{
+    text-align: center;
+}
