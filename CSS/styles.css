@@ -1,3 +1,5 @@
+/* main index.html */
+
 a{
     color:lightcoral;
 }
@@ -18,10 +20,68 @@ body{
 .menu_of_dishes{
     background-color: wheat;
     width: 300px;
-    height: 200px;
-    margin-left: 300px;
+    display: block;
+    margin: auto;
 }
 
 .menu_of_dishes h2{
+    text-align: center;
+    padding: 15px;
+}
+
+/* spaghetti_bolognese.html */
+
+.recipe_header{
+    background-color: lightcoral;
+    padding:8px;
+}
+
+.recipe_header h1{
+    text-align: center;
+}
+
+.food_img{
+    margin:10px;
+    padding-left: 570px;
+}
+
+.recipe_description{
+    text-align: center;
+    width: 500px;
+    display: block;
+    margin: auto;
+}
+
+.recipe_description p{
+    background-color: wheat;
+    padding: 8px;
+}
+
+.ingredients {
+    background-color: wheat;
+    width: 500px;
+    display: block;
+    margin: auto;
+    
+}
+
+.ingredients h1{
+    text-align: center;
+}
+
+.preparation{
+    background-color: wheat;
+    width:500px;
+    display: block;
+    margin: auto;
+}
+
+.preparation h1{
+    text-align: center;
+}
+
+.footer{
+    background-color: wheat;
+    padding: 8px;
     text-align: center;
 }
